@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marioozon
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning computer engeneering at UDC 
+- 🌱 I’m currently learning computer engineering at UDC 
 - 📫 How to reach me: mario.ozon@udc.es
 
 <!---
